@@ -57,7 +57,7 @@ pip install kivy
 ### 🔵 1. Draw Circle (OpenCV)
 
 ```bash
-python circle_draw.py
+python circle.py
 ```
 
 📌 Click anywhere on the image → a green circle will be drawn.
@@ -67,7 +67,7 @@ python circle_draw.py
 ### 🟡 2. Draw Rectangle (OpenCV)
 
 ```bash
-python rectangle_draw.py
+python rectangle.py
 ```
 
 📌 Click and drag → rectangle will be drawn dynamically.
@@ -77,7 +77,7 @@ python rectangle_draw.py
 ### 🎨 3. Kivy Drawing App
 
 ```bash
-python kivy_paint.py
+python paint.py
 ```
 
 📌 Draw freely using mouse or touch.
