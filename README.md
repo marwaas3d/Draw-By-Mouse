@@ -16,9 +16,9 @@ The goal is to explore how users interact with systems through:
 
 ```
 📁 project-folder
-│── circle_draw.py        # Draw circle using mouse click (OpenCV)
-│── rectangle_draw.py     # Draw rectangle using drag (OpenCV)
-│── kivy_paint.py         # Full drawing app (Kivy)
+│── circle.py        # Draw circle using mouse click (OpenCV)
+│── rectangle.py     # Draw rectangle using drag (OpenCV)
+│── paint.py         # Full drawing app (Kivy)
 │── README.md
 ```
 
